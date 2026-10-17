@@ -1,0 +1,9 @@
+# ÖNEMLİ: repo herkese açık. Misafir fotoğrafları/sesleri ASLA buraya girmez.
+tools/export/
+tools/node_modules/
+print/book/*.pdf
+_shots/
+node_modules/
+.DS_Store
+*.log
+.env

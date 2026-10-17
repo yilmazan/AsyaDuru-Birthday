@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#FBE4E8">
+  <meta name="color-scheme" content="light">
+  <title>Prenses Asya'ya bir mektup yaz</title>
+  <meta name="description" content="Asya Duru 4 yaşında! Ona bir dilek, bir anı ya da bir fotoğraf bırak. Asya Duru turns 4! Leave her a wish, a memory or a photo.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Prenses Asya'ya bir mektup yaz / Write a letter to Princess Asya">
+  <meta property="og:description" content="Asya Duru 4 yaşında! Ona bir dilek, bir anı ya da bir fotoğraf bırak. Asya Duru turns 4! Leave her a wish, a memory or a photo.">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120'%3E%3Ccircle cx='60' cy='60' r='58' fill='%23FBE4E8'/%3E%3Cpath d='M26 80 L20 44 Q32 54 42 62 Q52 46 60 32 Q68 46 78 62 Q88 54 100 44 L94 80 Z' fill='%23C9A13B' stroke='%2396711E' stroke-width='4' stroke-linejoin='round'/%3E%3Crect x='24' y='78' width='72' height='14' rx='4' fill='%23C9A13B' stroke='%2396711E' stroke-width='4'/%3E%3Ccircle cx='60' cy='30' r='7' fill='%23B8325F'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="assets/css/theme.css">
+  <link rel="stylesheet" href="assets/css/guest.css">
+  <script type="module" src="assets/js/guest.js"></script>
+</head>
+<body data-screen="hero">
+
+  <!-- SVG sprite: wax seal + icons (görünmez ama display:none DEĞİL; yoksa gradyanlar çizilmez) -->
+  <svg class="sprite" aria-hidden="true" focusable="false" width="0" height="0">
+    <defs>
+      <radialGradient id="waxFill" cx="36%" cy="30%" r="78%">
+        <stop offset="0" stop-color="#EE8DAB"/>
+        <stop offset=".38" stop-color="#C53D6A"/>
+        <stop offset=".78" stop-color="#9A2450"/>
+        <stop offset="1" stop-color="#7A1A3D"/>
+      </radialGradient>
+      <radialGradient id="waxPool" cx="50%" cy="50%" r="50%">
+        <stop offset=".72" stop-color="#000" stop-opacity="0"/>
+        <stop offset="1" stop-color="#5A0F2C" stop-opacity=".35"/>
+      </radialGradient>
+      <linearGradient id="goldFill" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#F0D88E"/>
+        <stop offset=".45" stop-color="#FFF2C4"/>
+        <stop offset=".7" stop-color="#C9A13B"/>
+        <stop offset="1" stop-color="#96711E"/>
+      </linearGradient>
+      <pattern id="lining" width="14" height="14" patternUnits="userSpaceOnUse">
+        <rect width="14" height="14" fill="#E9DDF6"/>
+        <path d="M7 3.2 L7.9 6.1 L10.8 7 L7.9 7.9 L7 10.8 L6.1 7.9 L3.2 7 L6.1 6.1 Z" fill="#CDB8EA"/>
+      </pattern>
+    </defs>
+
+    <symbol id="i-seal" viewBox="0 0 120 120">
+      <path d="M112.1 60.0C112.2 64.8 109.8 69.3 109.1 74.4C108.4 79.6 110.6 86.8 107.9 90.8C105.3 94.8 97.6 95.4 93.3 98.4C88.9 101.3 86.4 106.1 82.1 108.4C77.8 110.6 72.3 111.5 67.4 111.8C62.6 112.1 57.9 110.3 52.8 110.2C47.7 110.1 41.0 113.1 36.6 111.2C32.3 109.2 30.4 102.0 26.9 98.2C23.4 94.5 18.3 92.5 15.7 88.5C13.1 84.5 12.4 79.0 11.3 74.3C10.2 69.6 9.9 65.0 9.1 60.0C8.3 55.0 5.6 49.2 6.5 44.3C7.3 39.3 10.6 34.2 14.0 30.4C17.3 26.6 22.5 24.3 26.6 21.4C30.7 18.5 34.3 15.5 38.6 13.1C42.9 10.7 47.4 8.7 52.4 6.9C57.3 5.0 63.4 1.3 68.3 2.1C73.3 2.8 77.8 8.4 82.2 11.4C86.5 14.5 90.3 17.3 94.4 20.4C98.4 23.4 104.3 25.8 106.7 30.0C109.0 34.2 107.7 40.7 108.6 45.7C109.5 50.7 112.0 55.2 112.1 60.0Z" fill="url(#waxFill)"/>
+      <circle cx="60" cy="60" r="50" fill="url(#waxPool)"/>
+      <!-- presle basılmış oluk: koyu üst-sol, açık alt-sağ kenar -->
+      <circle cx="60.8" cy="60.8" r="37" fill="none" stroke="#F49AB6" stroke-opacity=".55" stroke-width="2"/>
+      <circle cx="60" cy="60" r="37" fill="none" stroke="#6E1435" stroke-opacity=".7" stroke-width="2.4"/>
+      <circle cx="60" cy="60" r="35" fill="#A72A57" fill-opacity=".35"/>
+      <!-- kabartma taç -->
+      <g transform="translate(60.9 61.2)">
+        <path d="M-22 10 L-25 -12 Q-17 -5 -10 0 Q-4 -11 0 -19 Q4 -11 10 0 Q17 -5 25 -12 L22 10 Z" fill="#F49AB6" fill-opacity=".5"/>
+        <rect x="-23" y="9" width="46" height="8" rx="2.5" fill="#F49AB6" fill-opacity=".5"/>
+      </g>
+      <g transform="translate(60 60)">
+        <path d="M-22 10 L-25 -12 Q-17 -5 -10 0 Q-4 -11 0 -19 Q4 -11 10 0 Q17 -5 25 -12 L22 10 Z" fill="#7A1A3D" fill-opacity=".78"/>
+        <rect x="-23" y="9" width="46" height="8" rx="2.5" fill="#7A1A3D" fill-opacity=".78"/>
+        <circle cx="-25" cy="-13.5" r="3.4" fill="#7A1A3D" fill-opacity=".78"/>
+        <circle cx="0" cy="-21" r="3.8" fill="#7A1A3D" fill-opacity=".78"/>
+        <circle cx="25" cy="-13.5" r="3.4" fill="#7A1A3D" fill-opacity=".78"/>
+      </g>
+      <!-- mum parlaması -->
+      <ellipse cx="40" cy="30" rx="17" ry="9" transform="rotate(-32 40 30)" fill="#fff" fill-opacity=".28"/>
+      <ellipse cx="34" cy="28" rx="5" ry="2.6" transform="rotate(-32 34 28)" fill="#fff" fill-opacity=".45"/>
+    </symbol>
+
+    <symbol id="i-spark" viewBox="0 0 20 20">
+      <path d="M10 0 C10.9 6.2 13.8 9.1 20 10 C13.8 10.9 10.9 13.8 10 20 C9.1 13.8 6.2 10.9 0 10 C6.2 9.1 9.1 6.2 10 0 Z" fill="url(#goldFill)"/>
+    </symbol>
+
+    <symbol id="i-camera" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8.5h3l1.6-2.3h6.8L17 8.5h3a1 1 0 0 1 1 1v8.8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9.5a1 1 0 0 1 1-1Z"/><circle cx="12" cy="13.6" r="3.4"/></g></symbol>
+    <symbol id="i-gallery" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="4.5" width="17" height="15" rx="2"/><circle cx="9" cy="9.6" r="1.7"/><path d="m4 17.5 5-5 3.5 3.5 2.5-2.5 5 4.5"/></g></symbol>
+    <symbol id="i-mic" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5.5 11a6.5 6.5 0 0 0 13 0M12 17.5V21"/></g></symbol>
+    <symbol id="i-stop" viewBox="0 0 24 24"><rect x="7" y="7" width="10" height="10" rx="2.2" fill="currentColor"/></symbol>
+    <symbol id="i-play" viewBox="0 0 24 24"><path d="M8.5 6.2v11.6a.8.8 0 0 0 1.2.7l9-5.8a.8.8 0 0 0 0-1.4l-9-5.8a.8.8 0 0 0-1.2.7Z" fill="currentColor"/></symbol>
+    <symbol id="i-pause" viewBox="0 0 24 24"><rect x="7" y="6" width="3.6" height="12" rx="1.2" fill="currentColor"/><rect x="13.4" y="6" width="3.6" height="12" rx="1.2" fill="currentColor"/></symbol>
+    <symbol id="i-trash" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 7h15M9.5 7V5h5v2M6.5 7l.9 12.1a1 1 0 0 0 1 .9h7.2a1 1 0 0 0 1-.9L17.5 7"/></g></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24"><path d="m7 7 10 10M17 7 7 17" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></symbol>
+  </svg>
+
+  <!-- dekor zemini -->
+  <div class="backdrop" aria-hidden="true"></div>
+
+  <button type="button" class="lang-switch" id="langSwitch" data-i18n="lang.switch" hidden>English</button>
+
+  <main>
+    <!-- ================= 1) Kapak + dil seçimi ================= -->
+    <section class="screen hero" id="screen-hero" data-mode="choose" aria-labelledby="heroTitle">
+      <div class="hero-mark" role="img" data-i18n-aria="app.turnsFour" aria-label="4 yaşında!">
+        <span class="hero-glow" aria-hidden="true"></span>
+        <span class="hero-four" aria-hidden="true">4</span>
+        <img class="hero-crown" src="assets/img/crown.svg" alt="" width="120" height="84">
+        <svg class="spark s1" aria-hidden="true"><use href="#i-spark"/></svg>
+        <svg class="spark s2" aria-hidden="true"><use href="#i-spark"/></svg>
+        <svg class="spark s3" aria-hidden="true"><use href="#i-spark"/></svg>
+      </div>
+
+      <p class="name-script hero-name" data-i18n="app.childName">Asya Duru</p>
+
+      <!-- kayıtlı dil yokken: iki dilli -->
+      <div class="hero-choose">
+        <h1 class="display hero-title" id="heroTitle"><span id="heroTitleTr" lang="tr">Prenses Asya'ya bir mektup yaz</span><span class="hero-title-en" id="heroTitleEn" lang="en">Write a letter to Princess Asya</span></h1>
+        <p class="hero-choose-label" id="chooseLabel"><span lang="tr">Dil seçin</span> / <span lang="en">Choose language</span></p>
+        <div class="lang-buttons" role="group" aria-labelledby="chooseLabel">
+          <button type="button" class="btn btn-primary" data-pick-lang="tr" lang="tr">Türkçe</button>
+          <button type="button" class="btn btn-primary" data-pick-lang="en" lang="en">English</button>
+        </div>
+      </div>
+
+      <!-- kayıtlı dil varken -->
+      <div class="hero-saved">
+        <h1 class="display hero-title" data-i18n="welcome.title" id="heroTitleSaved">Prenses Asya'ya bir mektup yaz</h1>
+        <p class="hero-sub" data-i18n="welcome.subtitle"></p>
+        <button type="button" class="btn btn-primary hero-cta" id="startBtn" data-i18n="welcome.start">Mektup yaz</button>
+        <p class="hero-time" data-i18n="welcome.time"></p>
+      </div>
+
+      <p class="hero-date" data-i18n="app.partyDate">31 Ekim 2026</p>
+    </section>
+
+    <!-- ================= 2) Mektup ================= -->
+    <section class="screen letter-screen" id="screen-letter" hidden>
+      <header class="letter-top">
+        <p class="name-script letter-brand" data-i18n="app.childName">Asya Duru</p>
+      </header>
+
+      <form class="letter-form" id="letterForm" novalidate data-i18n-aria="guest.letterAria">
+        <div class="letter paper">
+        <fieldset class="letter-fields" id="letterFields">
+          <div class="letterhead" aria-hidden="true">
+            <img src="assets/img/crown.svg" alt="" width="120" height="84">
+            <svg class="letterhead-rule" viewBox="0 0 160 10"><path d="M0 5h66M94 5h66" stroke="#C9A13B" stroke-width="1"/><path d="M80 0.8 L84.2 5 L80 9.2 L75.8 5 Z" fill="#C9A13B"/><circle cx="70" cy="5" r="1.4" fill="#C9A13B"/><circle cx="90" cy="5" r="1.4" fill="#C9A13B"/></svg>
+          </div>
+
+          <div class="part part-wish">
+            <label class="salutation display" for="wish" id="wishLabel" tabindex="-1" data-i18n="guest.wishLabel">Sevgili Asya,</label>
+            <textarea class="write" id="wish" name="wish" rows="5" maxlength="1000" data-i18n-placeholder="guest.wishPlaceholder" aria-describedby="wishCount"></textarea>
+            <p class="counter" id="wishCount" hidden></p>
+          </div>
+
+          <div class="part part-memory">
+            <label class="ps display" for="memory"><span data-i18n="guest.memoryLabel">Not: Seninle bir anım</span> <span class="optional" data-i18n="guest.optional">isteğe bağlı</span></label>
+            <textarea class="write" id="memory" name="memory" rows="3" maxlength="1000" data-i18n-placeholder="guest.memoryPlaceholder" aria-describedby="memoryCount"></textarea>
+            <p class="counter" id="memoryCount" hidden></p>
+          </div>
+
+          <div class="part part-photos" role="group" aria-labelledby="photosLabel">
+            <div class="attach-head">
+              <p class="attach-label" id="photosLabel" data-i18n="guest.photosLabel">Mektuba fotoğraf iliştir</p>
+              <p class="attach-hint" id="photosHint"></p>
+            </div>
+            <ul class="polaroids" id="polaroids" hidden></ul>
+            <div class="attach-buttons" id="photoButtons">
+              <input class="file-input" type="file" id="photoCam" accept="image/*" capture="environment">
+              <label class="attach-btn" for="photoCam"><svg aria-hidden="true"><use href="#i-camera"/></svg><span data-i18n="guest.takePhoto">Fotoğraf çek</span></label>
+              <input class="file-input" type="file" id="photoLib" accept="image/*" multiple>
+              <label class="attach-btn" for="photoLib"><svg aria-hidden="true"><use href="#i-gallery"/></svg><span data-i18n="guest.choosePhoto">Galeriden seç</span></label>
+            </div>
+            <p class="note" id="photoNote" role="status" hidden></p>
+          </div>
+
+          <div class="part part-audio" id="audioPart" role="group" aria-labelledby="audioLabel" hidden>
+            <div class="attach-head">
+              <p class="attach-label" id="audioLabel" data-i18n="guest.audioLabel">Sesli not</p>
+              <p class="attach-hint" id="audioHint"></p>
+            </div>
+            <div class="voice" id="voice" data-state="idle">
+              <button type="button" class="voice-btn" id="voiceBtn">
+                <svg class="ring" viewBox="0 0 64 64" aria-hidden="true">
+                  <circle class="ring-track" cx="32" cy="32" r="29"/>
+                  <circle class="ring-fill" id="ringFill" cx="32" cy="32" r="29"/>
+                </svg>
+                <svg class="voice-icon" id="voiceIcon" aria-hidden="true"><use href="#i-mic"/></svg>
+                <span class="visually-hidden" id="voiceBtnText"></span>
+              </button>
+              <div class="voice-meta">
+                <p class="voice-action" id="voiceAction" aria-hidden="true"></p>
+                <p class="voice-time" id="voiceTime" aria-live="off"><span class="rec-dot" aria-hidden="true"></span><span id="voiceTimeText">0:00</span></p>
+              </div>
+              <button type="button" class="voice-delete" id="voiceDelete" hidden>
+                <svg aria-hidden="true"><use href="#i-trash"/></svg><span data-i18n="guest.audioDelete">Sil</span>
+              </button>
+            </div>
+            <p class="note" id="audioNote" role="status" hidden></p>
+          </div>
+
+          <div class="part part-sign">
+            <div class="sign">
+              <input class="sign-input" type="text" id="guestName" name="guestName" maxlength="60" autocomplete="name" enterkeyhint="done" data-i18n-placeholder="guest.namePlaceholder" aria-describedby="nameHint">
+              <svg class="sign-flourish" viewBox="0 0 40 20" aria-hidden="true"><path d="M2 15c6-1 9-9 14-10 4-1 3 6-1 8-3 2 2 2 6-1 3-2 6-4 8-3 2 1-1 4 1 4 3 0 5-2 8-3" fill="none" stroke="#C9A13B" stroke-width="1.3" stroke-linecap="round"/></svg>
+              <label class="sign-label" for="guestName" data-i18n="guest.nameLabel">İmzan</label>
+              <p class="sign-hint" id="nameHint" data-i18n="guest.nameHint"></p>
+            </div>
+          </div>
+        </fieldset>
+        </div>
+
+        <div class="seal-area">
+          <button type="submit" class="seal-btn" id="sealBtn">
+            <svg class="seal-svg" aria-hidden="true"><use href="#i-seal"/></svg>
+            <span class="seal-label" data-i18n="guest.submit">Mühürle ve gönder</span>
+          </button>
+          <div class="form-alert" id="formAlert" role="alert" hidden>
+            <p id="formAlertText"></p>
+            <button type="button" class="btn btn-ghost retry-btn" id="retryBtn" data-i18n="err.retry" hidden>Tekrar dene</button>
+          </div>
+        </div>
+      </form>
+
+      <p class="privacy" data-i18n="guest.privacy">Mektupları yalnızca Asya'nın ailesi okur.</p>
+    </section>
+
+    <!-- ================= 3a) Gönderim sahnesi ================= -->
+    <section class="screen send" id="screen-send" hidden>
+      <div class="stage" id="stage" aria-hidden="true">
+        <div class="flight" id="flight">
+          <div class="env-back"><svg viewBox="0 0 280 180" preserveAspectRatio="none"><rect x="0" y="0" width="280" height="180" rx="6" fill="url(#lining)"/></svg></div>
+          <div class="env-flap" id="envFlap">
+            <svg class="flap-in" viewBox="0 0 280 118"><path d="M0 0 H280 L152 110 Q140 120 128 110 Z" fill="url(#lining)" stroke="#D8C6EE" stroke-width="1"/></svg>
+            <svg class="flap-out" viewBox="0 0 280 118"><path d="M0 0 H280 L152 110 Q140 120 128 110 Z" fill="#FFF3EF" stroke="#EBD3DA" stroke-width="1.2"/></svg>
+          </div>
+          <div class="mini" id="mini">
+            <div class="mini-panel p1" id="p1"><div class="mini-face"></div><div class="mini-back"></div><div class="mini-shade"></div></div>
+            <div class="mini-panel p2" id="p2"><div class="mini-face"></div><div class="mini-back"></div><div class="mini-shade"></div></div>
+            <div class="mini-panel p3" id="p3"><div class="mini-face"></div><div class="mini-back"></div><div class="mini-shade"></div></div>
+          </div>
+          <div class="env-front"><svg viewBox="0 0 280 180"><path d="M0 1 L140 104 L280 1 V174 a6 6 0 0 1 -6 6 H6 a6 6 0 0 1 -6 -6 Z" fill="#FFF7F3"/><path d="M0 1 L140 104 L280 1" fill="none" stroke="#EBD3DA" stroke-width="1.2"/><path d="M6 178 L122 98 M274 178 L158 98" stroke="#F1DDE3" stroke-width="1.2"/></svg></div>
+          <div class="env-seal" id="envSeal"><svg><use href="#i-seal"/></svg></div>
+          <span class="seal-ring" id="sealRing"></span>
+        </div>
+      </div>
+      <div class="send-status" role="status" aria-live="polite">
+        <p class="send-text display" id="sendText" data-i18n="guest.sending">Mektup saraya gidiyor…</p>
+        <div class="send-bar" aria-hidden="true"><span id="sendBar"></span></div>
+        <p class="send-progress" id="sendProgress"></p>
+      </div>
+    </section>
+
+    <!-- ================= 3b) Teşekkür ================= -->
+    <section class="screen thanks" id="screen-thanks" hidden aria-labelledby="thanksTitle">
+      <div class="thanks-inner">
+        <svg class="postmark" id="postmark" viewBox="0 0 160 160" aria-hidden="true">
+          <defs>
+            <path id="arcTop" d="M28 80 A52 52 0 0 1 132 80"/>
+            <path id="arcBottom" d="M24 80 A56 56 0 0 0 136 80"/>
+          </defs>
+          <circle cx="80" cy="80" r="70" fill="none" stroke="currentColor" stroke-width="2.4"/>
+          <circle cx="80" cy="80" r="40" fill="none" stroke="currentColor" stroke-width="1.4"/>
+          <text class="pm-arc" font-size="13"><textPath href="#arcTop" startOffset="50%" text-anchor="middle" id="pmTop">31 Ekim 2026</textPath></text>
+          <text class="pm-arc" font-size="13"><textPath href="#arcBottom" startOffset="50%" text-anchor="middle" id="pmBottom">Asya Duru</textPath></text>
+          <text class="pm-num" id="pmNum" x="80" y="94" text-anchor="middle" font-size="40"></text>
+          <g id="pmCrown" transform="translate(80 82) scale(.62)">
+            <path d="M-22 10 L-25 -12 Q-17 -5 -10 0 Q-4 -11 0 -19 Q4 -11 10 0 Q17 -5 25 -12 L22 10 Z" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linejoin="round"/>
+            <rect x="-23" y="10" width="46" height="8" rx="2.5" fill="none" stroke="currentColor" stroke-width="2.6"/>
+          </g>
+        </svg>
+        <svg class="postmark-waves" viewBox="0 0 120 60" aria-hidden="true"><path d="M0 12 q10 -8 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 M0 30 q10 -8 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 M0 48 q10 -8 20 0 t20 0 t20 0 t20 0 t20 0 t20 0" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+
+        <h2 class="display thanks-title" id="thanksTitle" tabindex="-1" data-i18n="thanks.title">Mektubun saraya ulaştı!</h2>
+        <p class="thanks-body" data-i18n="thanks.body"></p>
+        <p class="thanks-count" id="thanksCount" hidden></p>
+        <p class="thanks-signoff" data-i18n="thanks.signoff"></p>
+        <button type="button" class="btn btn-primary thanks-again" id="againBtn" data-i18n="thanks.again">Bir mektup daha yaz</button>
+      </div>
+      <img class="castle" src="assets/img/guest/castle.svg" alt="" aria-hidden="true">
+    </section>
+  </main>
+
+  <div class="sparkles" id="sparkles" aria-hidden="true"></div>
+</body>
+</html>

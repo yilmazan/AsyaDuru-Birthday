@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 84" role="img" aria-label="Taç">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F0D88E"/>
+      <stop offset=".45" stop-color="#FFF2C4"/>
+      <stop offset=".7" stop-color="#C9A13B"/>
+      <stop offset="1" stop-color="#96711E"/>
+    </linearGradient>
+    <linearGradient id="band" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E9CC7A"/>
+      <stop offset="1" stop-color="#96711E"/>
+    </linearGradient>
+  </defs>
+  <path d="M14 62 L8 22 Q22 34 34 44 Q46 26 60 10 Q74 26 86 44 Q98 34 112 22 L106 62 Z"
+        fill="url(#g)" stroke="#96711E" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="8" cy="20" r="6" fill="url(#g)" stroke="#96711E" stroke-width="2"/>
+  <circle cx="60" cy="9" r="7" fill="url(#g)" stroke="#96711E" stroke-width="2"/>
+  <circle cx="112" cy="20" r="6" fill="url(#g)" stroke="#96711E" stroke-width="2"/>
+  <path d="M60 26 l4 9 -4 9 -4 -9 z" fill="#B8325F" stroke="#8E1F46" stroke-width="1.2"/>
+  <rect x="12" y="60" width="96" height="16" rx="5" fill="url(#band)" stroke="#96711E" stroke-width="2"/>
+  <circle cx="36" cy="68" r="4.2" fill="#9B7FC4" stroke="#5E3F8A" stroke-width="1"/>
+  <circle cx="60" cy="68" r="5" fill="#B8325F" stroke="#8E1F46" stroke-width="1"/>
+  <circle cx="84" cy="68" r="4.2" fill="#9B7FC4" stroke="#5E3F8A" stroke-width="1"/>
+  <path d="M22 50 q4 -6 8 0" fill="none" stroke="#FFF2C4" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+</svg>
