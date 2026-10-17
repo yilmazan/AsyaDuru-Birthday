@@ -1,0 +1,263 @@
+{
+  "source": "sample",
+  "sample": true,
+  "note": "SAMPLE CONTENT: invented letters and placeholder illustrations for previewing the photo book.",
+  "exported_at": "2026-10-17T16:22:16.404075+00:00",
+  "count": 12,
+  "memories": [
+    {
+      "id": "1e7ea419-51c9-480a-af38-a5ae8306d03b",
+      "created_at": "2026-10-31T11:12:55Z",
+      "lang": "tr",
+      "guest_name": "Elif Teyze",
+      "wish": "Bugün dört yaşına girdin ve bütün salonu kahkahalarınla doldurdun. Dilerim hep böyle meraklı, böyle cesur ve böyle neşeli kalırsın. Seni çok seviyoruz, minik prenses!",
+      "memory": "Geçen yaz bahçede kelebek kovaladığımız günü hiç unutmayacağım. Bir tanesi parmağına konmuştu, nefesini tutup bana bakmıştın.",
+      "photo_paths": [
+        "1e7ea419-51c9-480a-af38-a5ae8306d03b/photo-1.jpg",
+        "1e7ea419-51c9-480a-af38-a5ae8306d03b/photo-2.jpg"
+      ],
+      "audio_path": null,
+      "audio_seconds": null,
+      "favorite": false,
+      "hidden": false,
+      "files": {
+        "photos": [
+          "files/1e7ea419-51c9-480a-af38-a5ae8306d03b/photo-1.jpg",
+          "files/1e7ea419-51c9-480a-af38-a5ae8306d03b/photo-2.jpg"
+        ],
+        "audio": null
+      }
+    },
+    {
+      "id": "f3f49249-1a46-4e25-a392-99dde5121482",
+      "created_at": "2026-10-31T11:20:39Z",
+      "lang": "en",
+      "guest_name": "Aunt Sarah",
+      "wish": "Happy 4th birthday, sweet Asya! May every year bring you as much sparkle as this party did today.",
+      "memory": "",
+      "photo_paths": [
+        "f3f49249-1a46-4e25-a392-99dde5121482/photo-1.jpg"
+      ],
+      "audio_path": null,
+      "audio_seconds": null,
+      "favorite": false,
+      "hidden": false,
+      "files": {
+        "photos": [
+          "files/f3f49249-1a46-4e25-a392-99dde5121482/photo-1.jpg"
+        ],
+        "audio": null
+      }
+    },
+    {
+      "id": "8e7aa6e9-6bad-4c88-a929-d7a78c3d5f16",
+      "created_at": "2026-10-31T11:41:46Z",
+      "lang": "tr",
+      "guest_name": "Mert, Zeynep ve Can",
+      "wish": "Sevgili Asya, dört yaşın sana bol oyun, bol masal ve bol sarılma getirsin. Büyüdüğünde bu mektubu okurken bugünkü pastanın tadını hatırlamanı isteriz!",
+      "memory": "Can, senin tacını takmak için sıraya girdi. Sonunda ikiniz birden prenses oldunuz.",
+      "photo_paths": [
+        "8e7aa6e9-6bad-4c88-a929-d7a78c3d5f16/photo-1.jpg",
+        "8e7aa6e9-6bad-4c88-a929-d7a78c3d5f16/photo-2.jpg",
+        "8e7aa6e9-6bad-4c88-a929-d7a78c3d5f16/photo-3.jpg"
+      ],
+      "audio_path": "8e7aa6e9-6bad-4c88-a929-d7a78c3d5f16/audio.webm",
+      "audio_seconds": 23,
+      "favorite": false,
+      "hidden": false,
+      "files": {
+        "photos": [
+          "files/8e7aa6e9-6bad-4c88-a929-d7a78c3d5f16/photo-1.jpg",
+          "files/8e7aa6e9-6bad-4c88-a929-d7a78c3d5f16/photo-2.jpg",
+          "files/8e7aa6e9-6bad-4c88-a929-d7a78c3d5f16/photo-3.jpg"
+        ],
+        "audio": "files/8e7aa6e9-6bad-4c88-a929-d7a78c3d5f16/audio.webm"
+      }
+    },
+    {
+      "id": "c6cd75e9-c4a3-47da-ac04-9626c5e818fa",
+      "created_at": "2026-10-31T11:58:28Z",
+      "lang": "en",
+      "guest_name": null,
+      "wish": "Dear Asya, keep dancing like nobody is watching. Happy birthday!",
+      "memory": "",
+      "photo_paths": [],
+      "audio_path": null,
+      "audio_seconds": null,
+      "favorite": false,
+      "hidden": false,
+      "files": {
+        "photos": [],
+        "audio": null
+      }
+    },
+    {
+      "id": "3d6c51e3-00a6-49d3-a14a-49881c593af5",
+      "created_at": "2026-10-31T12:03:52Z",
+      "lang": "tr",
+      "guest_name": null,
+      "wish": "İyi ki doğdun Asya! Gülüşün hiç eksik olmasın.",
+      "memory": "",
+      "photo_paths": [],
+      "audio_path": null,
+      "audio_seconds": null,
+      "favorite": false,
+      "hidden": false,
+      "files": {
+        "photos": [],
+        "audio": null
+      }
+    },
+    {
+      "id": "1919e93a-731c-402f-ad09-af67e4163207",
+      "created_at": "2026-10-31T12:17:31Z",
+      "lang": "tr",
+      "guest_name": "Babaanne Nur",
+      "wish": "Canım torunum Asya Duru, sen doğduğun gün hastanenin penceresinden sabah güneşi giriyordu ve ben o an hayatımın en güzel sabahını yaşadığımı düşündüm. Şimdi dört yaşındasın; konuşuyorsun, şarkı söylüyorsun, bana masallar anlatıyorsun. Senin için dileğim çok basit ama çok büyük: Kalbin hep bu kadar sıcak, merakın hep bu kadar canlı olsun. Okula başladığında, ilk arkadaşlarını edindiğinde, ilk kez bisiklete bindiğinde, düştüğünde ve kalktığında biz hep yanında olacağız. Dünyayı tanırken acele etme; çiçekleri kokla, bulutlara isim ver, sorularını hiç bırakma. Sana öğrettiğim o küçük ninniyi büyüyünce kendi çocuklarına da söylersen, ben hep orada, sesinin içinde olacağım. Annenle babanın gözlerindeki ışığı her gördüğümde, bu aileye ne kadar büyük bir mutluluk getirdiğini bir kez daha anlıyorum. Bu sayfayı her açtığında bizi hatırla. Seni dünyalar kadar seviyorum. Doğum günün kutlu olsun, prensesim; nice mutlu, sağlıklı ve sevgi dolu yıllara.",
+      "memory": "Her pazar sabahı birlikte yaptığımız pankekler: sen unu, ben sabrı getiriyorum.",
+      "photo_paths": [
+        "1919e93a-731c-402f-ad09-af67e4163207/photo-1.jpg"
+      ],
+      "audio_path": null,
+      "audio_seconds": null,
+      "favorite": false,
+      "hidden": false,
+      "files": {
+        "photos": [
+          "files/1919e93a-731c-402f-ad09-af67e4163207/photo-1.jpg"
+        ],
+        "audio": null
+      }
+    },
+    {
+      "id": "adec6f11-5071-435d-a65b-5900406329bc",
+      "created_at": "2026-10-31T12:30:59Z",
+      "lang": "en",
+      "guest_name": "The Al Mansoori family",
+      "wish": "",
+      "memory": "",
+      "photo_paths": [
+        "adec6f11-5071-435d-a65b-5900406329bc/photo-1.jpg",
+        "adec6f11-5071-435d-a65b-5900406329bc/photo-2.jpg",
+        "adec6f11-5071-435d-a65b-5900406329bc/photo-3.jpg"
+      ],
+      "audio_path": null,
+      "audio_seconds": null,
+      "favorite": false,
+      "hidden": false,
+      "files": {
+        "photos": [
+          "files/adec6f11-5071-435d-a65b-5900406329bc/photo-1.jpg",
+          "files/adec6f11-5071-435d-a65b-5900406329bc/photo-2.jpg",
+          "files/adec6f11-5071-435d-a65b-5900406329bc/photo-3.jpg"
+        ],
+        "audio": null
+      }
+    },
+    {
+      "id": "5b4c8012-ce1d-4605-affe-837abef7e268",
+      "created_at": "2026-10-31T12:52:40Z",
+      "lang": "tr",
+      "guest_name": "Selin ve Arda",
+      "wish": "Asya’cım, dört yaşın kutlu olsun! Sana sesimizle de bir şarkı bıraktık, büyüyünce dinlersin.",
+      "memory": "",
+      "photo_paths": [
+        "5b4c8012-ce1d-4605-affe-837abef7e268/photo-1.jpg"
+      ],
+      "audio_path": "5b4c8012-ce1d-4605-affe-837abef7e268/audio.webm",
+      "audio_seconds": 41,
+      "favorite": false,
+      "hidden": false,
+      "files": {
+        "photos": [
+          "files/5b4c8012-ce1d-4605-affe-837abef7e268/photo-1.jpg"
+        ],
+        "audio": "files/5b4c8012-ce1d-4605-affe-837abef7e268/audio.webm"
+      }
+    },
+    {
+      "id": "1389b372-b91d-4572-a16f-89be8eb5140f",
+      "created_at": "2026-10-31T13:05:18Z",
+      "lang": "en",
+      "guest_name": "Grandpa Mike",
+      "wish": "To my favourite little explorer: four is a wonderful age for big questions. Never stop asking them.",
+      "memory": "Last spring you insisted on carrying the watering can all by yourself, the whole way round the garden. It was nearly as big as you, and you did not spill a single drop on the tulips. You told me the flowers were thirsty, and that a princess has to look after her kingdom.",
+      "photo_paths": [
+        "1389b372-b91d-4572-a16f-89be8eb5140f/photo-1.jpg",
+        "1389b372-b91d-4572-a16f-89be8eb5140f/photo-2.jpg"
+      ],
+      "audio_path": null,
+      "audio_seconds": null,
+      "favorite": false,
+      "hidden": false,
+      "files": {
+        "photos": [
+          "files/1389b372-b91d-4572-a16f-89be8eb5140f/photo-1.jpg",
+          "files/1389b372-b91d-4572-a16f-89be8eb5140f/photo-2.jpg"
+        ],
+        "audio": null
+      }
+    },
+    {
+      "id": "49a047dc-751b-4241-ae06-b437a51149bb",
+      "created_at": "2026-10-31T13:26:45Z",
+      "lang": "tr",
+      "guest_name": "Ayşe Öğretmen",
+      "wish": "Sevgili Asya, sınıfımızın en güleç yüzü sensin. İlk günü hatırlıyor musun? Çantanı sıkıca tutmuş, kapıda biraz çekingen durmuştun. Şimdi ise her sabah koşarak gelip bize günaydın diyorsun. Dört yaşında öğrenmeye, oynamaya ve paylaşmaya devam et. Işığın hiç sönmesin!",
+      "memory": "",
+      "photo_paths": [],
+      "audio_path": null,
+      "audio_seconds": null,
+      "favorite": false,
+      "hidden": false,
+      "files": {
+        "photos": [],
+        "audio": null
+      }
+    },
+    {
+      "id": "93d20470-4f1a-4065-ad90-5e6cb5fb12e0",
+      "created_at": "2026-10-31T13:44:23Z",
+      "lang": "en",
+      "guest_name": "Leo (age 6)",
+      "wish": "Happy birthday Asya! You can have my blue crayon 🖍️💙",
+      "memory": "",
+      "photo_paths": [
+        "93d20470-4f1a-4065-ad90-5e6cb5fb12e0/photo-1.jpg"
+      ],
+      "audio_path": null,
+      "audio_seconds": null,
+      "favorite": false,
+      "hidden": false,
+      "files": {
+        "photos": [
+          "files/93d20470-4f1a-4065-ad90-5e6cb5fb12e0/photo-1.jpg"
+        ],
+        "audio": null
+      }
+    },
+    {
+      "id": "7608d942-6c16-4173-a661-95f1e41686cd",
+      "created_at": "2026-10-31T14:10:35Z",
+      "lang": "tr",
+      "guest_name": "Kuzen İpek",
+      "wish": "Asya, iyi ki varsın! Bir sonraki doğum gününde de seninle dans etmek için sabırsızlanıyorum.",
+      "memory": "Yılbaşında üç saat boyunca saklambaç oynamıştık; her seferinde aynı perdenin arkasına saklanıyordun ve hep çok şaşırıyordun.",
+      "photo_paths": [
+        "7608d942-6c16-4173-a661-95f1e41686cd/photo-1.jpg",
+        "7608d942-6c16-4173-a661-95f1e41686cd/photo-2.jpg"
+      ],
+      "audio_path": null,
+      "audio_seconds": null,
+      "favorite": false,
+      "hidden": false,
+      "files": {
+        "photos": [
+          "files/7608d942-6c16-4173-a661-95f1e41686cd/photo-1.jpg",
+          "files/7608d942-6c16-4173-a661-95f1e41686cd/photo-2.jpg"
+        ],
+        "audio": null
+      }
+    }
+  ]
+}

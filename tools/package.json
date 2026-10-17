@@ -1,0 +1,23 @@
+{
+  "name": "asya4-print-tools",
+  "version": "1.0.0",
+  "private": true,
+  "description": "QR code, table cards, poster and photo book generator for Asya Duru's 4th birthday letters",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "qr": "node make-qr.mjs",
+    "cards": "node make-cards.mjs",
+    "export": "node export.mjs",
+    "book": "node make-book.mjs",
+    "book:sample": "node make-book.mjs sample-export",
+    "sample": "python3 make-sample-export.py"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.117.2",
+    "playwright-core": "1.56.1",
+    "qrcode": "1.5.4"
+  }
+}

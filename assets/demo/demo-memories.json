@@ -1,0 +1,254 @@
+[
+ {
+  "id": "a7bc7599-c500-5d20-8e7c-d1c44c6f55ec",
+  "created_at": "2026-10-31T11:12:07Z",
+  "lang": "tr",
+  "guest_name": "Elif Teyze",
+  "wish": "Canım Asya'm, 4 yaşın kutlu olsun! Kahkahan hep bu kadar çınlasın, merakın hiç bitmesin. Seni çok seviyoruz, minik prensesimiz.",
+  "memory": "Geçen yaz sahilde bana kumdan bir saray yapmıştın; kapısına da bir deniz kabuğu koymuştun. Hâlâ fotoğrafı telefonumda duruyor.",
+  "photo_paths": [
+   "a7bc7599-c500-5d20-8e7c-d1c44c6f55ec/photo-1.jpg",
+   "a7bc7599-c500-5d20-8e7c-d1c44c6f55ec/photo-2.jpg"
+  ],
+  "photoUrls": [
+   "assets/demo/img/d01.jpg",
+   "assets/demo/img/d02.jpg"
+  ],
+  "audio_path": null,
+  "audioUrl": null,
+  "audio_seconds": null,
+  "hidden": false,
+  "favorite": true
+ },
+ {
+  "id": "b7668eb6-efe9-5f3e-9445-afa7da921840",
+  "created_at": "2026-10-31T11:20:14Z",
+  "lang": "en",
+  "guest_name": "Sarah & Tom",
+  "wish": "Happy 4th birthday, Asya! May your year be full of dancing, stories and lots of cake. We loved celebrating with you today.",
+  "memory": "",
+  "photo_paths": [
+   "b7668eb6-efe9-5f3e-9445-afa7da921840/photo-1.jpg"
+  ],
+  "photoUrls": [
+   "assets/demo/img/d03.jpg"
+  ],
+  "audio_path": "b7668eb6-efe9-5f3e-9445-afa7da921840/audio.webm",
+  "audioUrl": "assets/demo/audio/a01.webm",
+  "audio_seconds": 5,
+  "hidden": false,
+  "favorite": false
+ },
+ {
+  "id": "6b28bdf1-f7d4-5f1c-8616-f59f143fdf0e",
+  "created_at": "2026-10-31T11:31:21Z",
+  "lang": "tr",
+  "guest_name": "Mert ve ailesi",
+  "wish": "İyi ki doğdun Asya! Nice mutlu, sağlıklı ve bol oyunlu yıllara. Bir dahaki pikniğe bizi de çağır 🎈",
+  "memory": "",
+  "photo_paths": [],
+  "photoUrls": [],
+  "audio_path": null,
+  "audioUrl": null,
+  "audio_seconds": null,
+  "hidden": false,
+  "favorite": false
+ },
+ {
+  "id": "6fe1b5e3-fbfc-5d82-8696-ef9245d3c76e",
+  "created_at": "2026-10-31T11:38:28Z",
+  "lang": "tr",
+  "guest_name": null,
+  "wish": "Tacın hep parlasın, kalbin hep bu kadar güzel kalsın. Doğum günün kutlu olsun, prenses!",
+  "memory": "",
+  "photo_paths": [
+   "6fe1b5e3-fbfc-5d82-8696-ef9245d3c76e/photo-1.jpg"
+  ],
+  "photoUrls": [
+   "assets/demo/img/d04.jpg"
+  ],
+  "audio_path": null,
+  "audioUrl": null,
+  "audio_seconds": null,
+  "hidden": false,
+  "favorite": false
+ },
+ {
+  "id": "1f55865c-dcca-52c0-a856-6d1af7ee072e",
+  "created_at": "2026-10-31T11:52:35Z",
+  "lang": "tr",
+  "guest_name": "Zeynep Teyze",
+  "wish": "Bu mektubu sen dört yaşındayken yazıyorum ama sen onu belki çok sonra, kendi kendine okuyabildiğin bir gün okuyacaksın. O gün kaç yaşında olursan ol, bil ki bugün salon kahkahalarla, balonlarla ve seni sevenlerle doluydu. Pastanın üstündeki dört mumu üflemeden önce gözlerini kapatıp uzun uzun dilek tuttun; ne dilediğini kimseye söylemedin, ama yüzündeki gülümsemeden güzel bir şey olduğunu anladık.\n\nSana dileğim şu: Merakını hiç kaybetme. Sorular sormaya, ağaçlara tırmanmaya, yeni şarkılar uydurmaya devam et. Bazen düşeceksin, bazen canın yanacak; o zaman bugünü hatırla ve etrafında ne kadar çok insanın sana el uzatmaya hazır olduğunu düşün.\n\nAnnenle babanın sana baktıkları o gururlu hali bir fotoğrafa sığdırmak imkânsız, o yüzden ben yazıyla anlatayım: dünyanın en mutlu iki insanı gibiydiler. Kocaman bir sarılma gönderiyorum; dört yaşındaki Asya'ya da, bunu okuyan büyük Asya'ya da.",
+  "memory": "",
+  "photo_paths": [],
+  "photoUrls": [],
+  "audio_path": null,
+  "audioUrl": null,
+  "audio_seconds": null,
+  "hidden": false,
+  "favorite": false
+ },
+ {
+  "id": "21ad8153-09cb-5984-a6cb-899aa0b3881f",
+  "created_at": "2026-10-31T12:05:42Z",
+  "lang": "en",
+  "guest_name": "Noah",
+  "wish": "",
+  "memory": "You taught me the princess wave at the playground last spring: elbow, elbow, wrist, wrist. I still do it every time I see you.",
+  "photo_paths": [],
+  "photoUrls": [],
+  "audio_path": null,
+  "audioUrl": null,
+  "audio_seconds": null,
+  "hidden": false,
+  "favorite": false
+ },
+ {
+  "id": "7affd0b1-9cfb-5abe-9585-9912148ec992",
+  "created_at": "2026-10-31T12:11:49Z",
+  "lang": "tr",
+  "guest_name": "Deniz",
+  "wish": "",
+  "memory": "",
+  "photo_paths": [
+   "7affd0b1-9cfb-5abe-9585-9912148ec992/photo-1.jpg",
+   "7affd0b1-9cfb-5abe-9585-9912148ec992/photo-2.jpg"
+  ],
+  "photoUrls": [
+   "assets/demo/img/d05.jpg",
+   "assets/demo/img/d06.jpg"
+  ],
+  "audio_path": null,
+  "audioUrl": null,
+  "audio_seconds": null,
+  "hidden": false,
+  "favorite": false
+ },
+ {
+  "id": "4cbb574e-3e8f-5453-be47-7a80ef7fbe0d",
+  "created_at": "2026-10-31T12:24:56Z",
+  "lang": "tr",
+  "guest_name": "Can Amca",
+  "wish": "Doğum günün kutlu olsun minik prenses! Sesli notumu da dinle, sana küçük bir şarkı çaldım.",
+  "memory": "",
+  "photo_paths": [
+   "4cbb574e-3e8f-5453-be47-7a80ef7fbe0d/photo-1.jpg",
+   "4cbb574e-3e8f-5453-be47-7a80ef7fbe0d/photo-2.jpg",
+   "4cbb574e-3e8f-5453-be47-7a80ef7fbe0d/photo-3.jpg"
+  ],
+  "photoUrls": [
+   "assets/demo/img/d07.jpg",
+   "assets/demo/img/d08.jpg",
+   "assets/demo/img/d09.jpg"
+  ],
+  "audio_path": "4cbb574e-3e8f-5453-be47-7a80ef7fbe0d/audio.mp4",
+  "audioUrl": "assets/demo/audio/a02.mp4",
+  "audio_seconds": 4,
+  "hidden": false,
+  "favorite": false
+ },
+ {
+  "id": "eee3f560-33bb-53aa-8866-b521d07c2f3a",
+  "created_at": "2026-10-31T12:30:03Z",
+  "lang": "en",
+  "guest_name": null,
+  "wish": "test test, just checking the QR code works",
+  "memory": "",
+  "photo_paths": [],
+  "photoUrls": [],
+  "audio_path": null,
+  "audioUrl": null,
+  "audio_seconds": null,
+  "hidden": true,
+  "favorite": false
+ },
+ {
+  "id": "f9b79aca-be74-50ce-9c37-ec0a1f275d4f",
+  "created_at": "2026-10-31T12:47:10Z",
+  "lang": "tr",
+  "guest_name": "Selin ve Ece",
+  "wish": "En sevdiğimiz oyun arkadaşımız! Dört yaşın sana bol bol macera, kocaman dondurmalar ve sonsuz masallar getirsin.",
+  "memory": "Bayramda hep birlikte çadır kurmuştuk, sen de içine bütün oyuncaklarını taşımıştın. Bize yer kalmamıştı ama çok gülmüştük.",
+  "photo_paths": [
+   "f9b79aca-be74-50ce-9c37-ec0a1f275d4f/photo-1.jpg"
+  ],
+  "photoUrls": [
+   "assets/demo/img/d10.jpg"
+  ],
+  "audio_path": null,
+  "audioUrl": null,
+  "audio_seconds": null,
+  "hidden": false,
+  "favorite": false
+ },
+ {
+  "id": "3c044047-7d84-5a5a-b1dd-0b94ed357135",
+  "created_at": "2026-10-31T13:03:17Z",
+  "lang": "en",
+  "guest_name": "Olivia's family",
+  "wish": "Thank you for the sparkliest party ever! Olivia hasn't stopped talking about the castle cake. Wishing you a magical fourth year.",
+  "memory": "",
+  "photo_paths": [
+   "3c044047-7d84-5a5a-b1dd-0b94ed357135/photo-1.jpg",
+   "3c044047-7d84-5a5a-b1dd-0b94ed357135/photo-2.jpg"
+  ],
+  "photoUrls": [
+   "assets/demo/img/d11.jpg",
+   "assets/demo/img/d12.jpg"
+  ],
+  "audio_path": null,
+  "audioUrl": null,
+  "audio_seconds": null,
+  "hidden": false,
+  "favorite": false
+ },
+ {
+  "id": "b55359af-7722-52c1-a62f-fbec59d535c9",
+  "created_at": "2026-10-31T13:15:24Z",
+  "lang": "tr",
+  "guest_name": null,
+  "wish": "Sana bir ninni bıraktım, büyüyünce dinlersin. İyi ki varsın.",
+  "memory": "",
+  "photo_paths": [],
+  "photoUrls": [],
+  "audio_path": "b55359af-7722-52c1-a62f-fbec59d535c9/audio.webm",
+  "audioUrl": "assets/demo/audio/a03.webm",
+  "audio_seconds": 6,
+  "hidden": false,
+  "favorite": false
+ },
+ {
+  "id": "7ace3650-b160-5092-bc08-0e861255378c",
+  "created_at": "2026-10-31T13:36:31Z",
+  "lang": "en",
+  "guest_name": "Leila",
+  "wish": "Four is the best age for climbing, giggling and asking why a hundred times a day. Never stop asking!",
+  "memory": "When you were two you fed my cat half of your biscuit, then apologised to him for taking it back.",
+  "photo_paths": [],
+  "photoUrls": [],
+  "audio_path": null,
+  "audioUrl": null,
+  "audio_seconds": null,
+  "hidden": false,
+  "favorite": false
+ },
+ {
+  "id": "84a29575-c4d4-58db-aa80-f98a325a290e",
+  "created_at": "2026-10-31T13:58:38Z",
+  "lang": "tr",
+  "guest_name": "Bora",
+  "wish": "Prensesimize sağlık, mutluluk ve bitmeyen oyunlar! 👑",
+  "memory": "",
+  "photo_paths": [
+   "84a29575-c4d4-58db-aa80-f98a325a290e/photo-1.jpg"
+  ],
+  "photoUrls": [
+   "assets/demo/img/d13.jpg"
+  ],
+  "audio_path": null,
+  "audioUrl": null,
+  "audio_seconds": null,
+  "hidden": false,
+  "favorite": false
+ }
+]

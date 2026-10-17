@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -60 1600 360" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+  <defs>
+    <linearGradient id="p" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3A1B45"/>
+      <stop offset="1" stop-color="#1E0D26"/>
+    </linearGradient>
+    <linearGradient id="far" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3F2050"/>
+      <stop offset="1" stop-color="#2A1433"/>
+    </linearGradient>
+  </defs>
+  <!-- distant hills -->
+  <path fill="url(#far)" d="M0 230 Q160 190 330 214 T680 206 T1040 212 T1380 200 T1600 214 V300 H0Z"/>
+  <!-- palace silhouette -->
+  <g fill="url(#p)">
+    <!-- left wing -->
+    <rect x="430" y="170" width="200" height="130"/>
+    <rect x="452" y="110" width="44" height="190"/><path d="M446 112 L474 40 L502 112Z"/>
+    <rect x="560" y="132" width="40" height="168"/><path d="M554 134 L580 74 L606 134Z"/>
+    <!-- right wing -->
+    <rect x="970" y="170" width="200" height="130"/>
+    <rect x="1104" y="110" width="44" height="190"/><path d="M1098 112 L1126 40 L1154 112Z"/>
+    <rect x="1000" y="132" width="40" height="168"/><path d="M994 134 L1020 74 L1046 134Z"/>
+    <!-- central keep -->
+    <rect x="620" y="140" width="360" height="160"/>
+    <path d="M620 140 h24 v-12 h22 v12 h24 v-12 h22 v12 h24 v-12 h22 v12 h24 v-12 h22 v12 h24 v-12 h22 v12 h24 v-12 h22 v12 h24 v-12 h22 v12 H980 v8 H620Z"/>
+    <rect x="700" y="70" width="60" height="230"/><path d="M692 72 L730 -6 L768 72Z"/>
+    <rect x="840" y="70" width="60" height="230"/><path d="M832 72 L870 -6 L908 72Z"/>
+    <rect x="770" y="40" width="60" height="260"/><path d="M760 44 Q800 -40 840 44Z"/>
+  </g>
+  <!-- pennant on the dome -->
+  <path d="M800 2 V-34" stroke="#3A1B45" stroke-width="3"/>
+  <path d="M801 -34 L826 -27 L801 -20Z" fill="#B8325F" opacity=".85"/>
+  <!-- warm windows -->
+  <g fill="#F0D88E">
+    <rect x="466" y="150" width="14" height="22" rx="7" opacity=".75"/>
+    <rect x="573" y="170" width="12" height="20" rx="6" opacity=".55"/>
+    <rect x="1118" y="150" width="14" height="22" rx="7" opacity=".7"/>
+    <rect x="1014" y="170" width="12" height="20" rx="6" opacity=".6"/>
+    <rect x="720" y="110" width="20" height="30" rx="10" opacity=".8"/>
+    <rect x="860" y="110" width="20" height="30" rx="10" opacity=".65"/>
+    <rect x="788" y="86" width="24" height="36" rx="12" opacity=".9"/>
+    <rect x="660" y="200" width="16" height="24" rx="8" opacity=".5"/>
+    <rect x="924" y="200" width="16" height="24" rx="8" opacity=".55"/>
+    <rect x="500" y="214" width="14" height="20" rx="7" opacity=".45"/>
+    <rect x="1086" y="214" width="14" height="20" rx="7" opacity=".5"/>
+  </g>
+  <!-- door -->
+  <path d="M772 300 V246 Q800 214 828 246 V300Z" fill="#E9CC7A" opacity=".35"/>
+  <!-- near ground -->
+  <path fill="#1A0B21" d="M0 268 Q220 248 420 262 T820 270 T1220 258 T1600 266 V300 H0Z"/>
+</svg>

@@ -1,0 +1,6 @@
+node_modules/
+# Supabase exports contain guests' private letters, photos and voice notes: never commit them
+export/
+# generated next to the sample when the sample book is built
+sample-export/book.html
+sample-export/sesli-notlar/
